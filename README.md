@@ -71,10 +71,11 @@ QA engineer from Russia. I specialize in manual testing of web and mobile softwa
 
 ### 🗎 My portfolio:
 
-<li>  <a href="google.com">REST and SOAP API testing via Postman</a>  </li>
-<li>  <a href="google.com">Web Application Testing (Online shop)</a>  </li>
-<li>  <a href="google.com">Mobile Application Testing</a>  </li>
-<li>  <a href="google.com">Working with data</a>  </li>
-<li>  <a href="google.com">Charles Proxy</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/api_testing">REST and SOAP API testing via Postman</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/web_testing">Web Application Testing (Online shop)</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/mobile_testing">Mobile Application Testing</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/work_with_data">Working with data</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/charles_proxy">Charles Proxy</a>  </li>
+<li>  <a href="https://github.com/AndZhelBack/bash_and_git">bash and git</a>  </li>
 
 ---
