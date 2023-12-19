@@ -6,7 +6,7 @@
 
 QA engineer from Russia. I specialize in manual testing of web and mobile software. Learning python in my free time. Here you can find my stack and my portfolio.
 
-- 📫 Feel free to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@Andrei_Zheltov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrey-zheltov-b641132a3/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andzhelback@gmail.com)
+- 📫 Feel free to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@Andrei_Zheltov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/AndZhelBack/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andzhelback@gmail.com)
 
 ---
 <h2><p align="center">🛠 My stack 
