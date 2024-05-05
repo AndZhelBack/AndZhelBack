@@ -26,7 +26,7 @@ AQA engineer from Russia. Learning python in my free time. Here you can find my 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>&nbsp
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="Swagger" /></a>
 <a href="https://trello.com/about" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" width="36" height="36" alt="Trello" /></a>
-<a href="https://testlink.org/" target="_blank" rel="noreferrer"><img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/testlink-logo1.png" width="36" height="36" alt="TestLink" /></a>
+<a href="https://testlink.org/" target="_blank" rel="noreferrer"><img src="https://matelo-testing-software.com/wp-content/uploads/2022/04/testling.png" width="72" height="36" alt="TestLink" /></a>
 </p>
 </div>
 
@@ -69,7 +69,7 @@ AQA engineer from Russia. Learning python in my free time. Here you can find my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="36" height="36"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="36" height="36"/>&nbsp
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png" width="36" height="36" alt="PyCharm" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2023/07/26/14/19/pycharm-8151316_960_720.png" width="36" height="36" alt="PyCharm" /></a>
 </p>
 </div>
 
