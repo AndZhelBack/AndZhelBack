@@ -24,8 +24,8 @@ AQA engineer from Russia. Learning python in my free time. Here you can find my 
 <a href="https://testit.software/" target="_blank" rel="noreferrer"><img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="36" height="36" alt="TestIT" /></a>&nbsp
 <a href="https://www.qase.io/" target="_blank" rel="noreferrer"><img src="https://luna1.co/eb0187.png" width="36" height="36" alt="QASE" /></a>&nbsp
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>&nbsp
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="Swagger" /></a>
-<a href="https://trello.com/about" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" width="36" height="36" alt="Trello" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="Swagger" /></a>&nbsp
+<a href="https://trello.com/about" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" width="36" height="36" alt="Trello" /></a>&nbsp
 <a href="https://testlink.org/" target="_blank" rel="noreferrer"><img src="https://matelo-testing-software.com/wp-content/uploads/2022/04/testling.png" width="72" height="36" alt="TestLink" /></a>
 </p>
 </div>
@@ -36,7 +36,7 @@ AQA engineer from Russia. Learning python in my free time. Here you can find my 
   <p align="left">
 <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="DevTools" /></a>&nbsp
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="36" height="36" alt="Postman" /></a>&nbsp
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="36" height="36" alt="SoapUI" /></a>
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="36" height="36" alt="SoapUI" /></a>&nbsp
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-2048x1986-3fr2ikf8.png" width="36" height="36" alt="Selenium" /></a>
 </p>
 </div>
@@ -68,7 +68,7 @@ AQA engineer from Russia. Learning python in my free time. Here you can find my 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="36" height="36"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="36" height="36"/>&nbsp
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a>&nbsp
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2023/07/26/14/19/pycharm-8151316_960_720.png" width="36" height="36" alt="PyCharm" /></a>
 </p>
 </div>
