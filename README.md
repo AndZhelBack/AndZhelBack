@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About me:
 
-QA engineer from Russia. I specialize in manual testing of web and mobile software. Learning python in my free time. Here you can find my stack and my portfolio.
+AQA engineer from Russia. Learning python in my free time. Here you can find my stack and my portfolio.
  
-- 🗎 **<a href="https://drive.google.com/file/d/1dazlFhUxWgosoJHcDVf7IYEOSoETFMoY/view?usp=sharing">Click here</a> to view my CV.**
+- 🗎 **<a href="https://drive.google.com">Click here</a> to view my CV.**
 
 - 📫 Feel free to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@Andrei_Zheltov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/AndZhelBack/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andzhelback@gmail.com)
 
@@ -25,6 +25,8 @@ QA engineer from Russia. I specialize in manual testing of web and mobile softwa
 <a href="https://www.qase.io/" target="_blank" rel="noreferrer"><img src="https://luna1.co/eb0187.png" width="36" height="36" alt="QASE" /></a>&nbsp
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>&nbsp
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="Swagger" /></a>
+<a href="https://trello.com/about" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" width="36" height="36" alt="Trello" /></a>
+<a href="https://testlink.org/" target="_blank" rel="noreferrer"><img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/testlink-logo1.png" width="36" height="36" alt="TestLink" /></a>
 </p>
 </div>
 
@@ -35,6 +37,7 @@ QA engineer from Russia. I specialize in manual testing of web and mobile softwa
 <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="DevTools" /></a>&nbsp
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="36" height="36" alt="Postman" /></a>&nbsp
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="36" height="36" alt="SoapUI" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-2048x1986-3fr2ikf8.png" width="36" height="36" alt="Selenium" /></a>
 </p>
 </div>
 
@@ -66,6 +69,7 @@ QA engineer from Russia. I specialize in manual testing of web and mobile softwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="36" height="36"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="36" height="36"/>&nbsp
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png" width="36" height="36" alt="PyCharm" /></a>
 </p>
 </div>
 
