@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-AQA engineer from Russia. Learning python in my free time. Here you can find my stack and my portfolio.
+QA engineer from Georgia. Learning python in my free time. Here you can find my stack and my portfolio.
  
 - 🗎 **<a href="https://drive.google.com">Click here</a> to view my CV.**
 
